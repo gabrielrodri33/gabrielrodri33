@@ -5,10 +5,6 @@
 
 ![Gabrielrodri33 GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielrodri33&show_icons=true&theme=dracula)
 
-## Mais utilizados
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielrodri33&layout=compact&theme=dracula)
-
 ## Tecnologias que utilizo
 <div style="display: inline_block"><br/>
     <img align="center" alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
@@ -20,3 +16,7 @@
     <img align="center" alt="Ruby" src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white">
     <img align="center" alt="mySql" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
 </div>
+
+## Mais utilizados
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielrodri33&layout=compact&theme=dracula)
