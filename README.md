@@ -37,8 +37,12 @@ Atualmente atuo com desenvolvimento fullstack, com dados, BI e automações, tra
 ## Estatísticas GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielrodri33&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielrodri33&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img src="https://streak-stats.demolab.com/?user=gabrielrodri33&theme=tokyonight&hide_border=true" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielrodri33&layout=compact&langs_count=7&theme=tokyonight&hide_border=true" height="180em"/>
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=gabrielrodri33&theme=tokyonight&no-frame=true&margin-w=4&row=1" />
 </div>
 
 ## O que você vai encontrar por aqui
