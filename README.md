@@ -34,6 +34,13 @@ Atualmente atuo com desenvolvimento fullstack, com dados, BI e automações, tra
 ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
 
+## Estatísticas GitHub
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielrodri33&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielrodri33&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
+
 ## O que você vai encontrar por aqui
 
 Nos meus repositórios, você encontrará projetos relacionados a:
@@ -47,3 +54,11 @@ Nos meus repositórios, você encontrará projetos relacionados a:
 ## Conecte-se comigo
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabrielrodri/)
+
+---
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gabrielrodri33/gabrielrodri33/output/snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gabrielrodri33/gabrielrodri33/output/snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/gabrielrodri33/gabrielrodri33/output/snake.svg">
+</picture>
