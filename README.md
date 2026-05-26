@@ -37,12 +37,8 @@ Atualmente atuo com desenvolvimento fullstack, com dados, BI e automações, tra
 ## Estatísticas GitHub
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=gabrielrodri33&theme=tokyonight&hide_border=true&locale=pt_BR" height="180em"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gabrielrodri33&theme=tokyonight" height="180em"/>
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=gabrielrodri33&theme=tokyonight&no-frame=true&margin-w=4&row=1" />
+  <img src="https://github-readme-stats-eight-zeta-45.vercel.app/api/top-langs/?username=gabrielrodri33&layout=compact&theme=tokyonight&hide_border=true&hide=Jupyter%20Notebook,Rich%20Text%20Format&locale=pt-br" height="180em"/>
+  <img src="https://streak-stats.demolab.com/?user=gabrielrodri33&theme=tokyonight&hide_border=true&locale=pt-br" height="180em"/>
 </div>
 
 ## O que você vai encontrar por aqui
