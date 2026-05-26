@@ -1,3 +1,7 @@
+![Header](https://capsule-render.vercel.app/api?type=waving&color=6A5ACD&height=120&section=header)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6A5ACD&width=435&lines=Desenvolvedor+Fullstack;Analista+de+Dados;Blue+Team+Security)](https://git.io/typing-svg)
+
 # Olá, eu sou Gabriel Siqueira 👋
 
 Sou um profissional de tecnologia com foco em **desenvolvimento, automação de processos, análise de dados** e interesse crescente em **Cybersecurity Blue Team Operations**.
@@ -14,25 +18,27 @@ Atualmente atuo com desenvolvimento fullstack, com dados, BI e automações, tra
 
 ## Tecnologias e Ferramentas
 
-### Back-end e Desenvolvimento
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-5C2D91?style=for-the-badge&logo=csharp&logoColor=white)
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+### Stacks
 
-### Dados e Banco de Dados
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white)
+<img src="https://skillicons.dev/icons?i=dotnet,cs,py,js,ts,react,nextjs" />
 
 ### DevOps e Ferramentas
-![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white)
-![NuGet](https://img.shields.io/badge/NuGet-004880?style=for-the-badge&logo=nuget&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
+
+<img src="https://skillicons.dev/icons?i=azure,vscode,visualstudio,githubactions,docker,kubernetes" />
+
+### Segurança
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Shodan](https://img.shields.io/badge/Shodan-CC0000?style=for-the-badge&logoColor=white)
+![Autopsy](https://img.shields.io/badge/Autopsy-1C1C1C?style=for-the-badge&logoColor=white)
+![Volatility](https://img.shields.io/badge/Volatility-7B2FBE?style=for-the-badge&logoColor=white)
+
+### Dados e Banco de Dados
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=microsoft&logoColor=black)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
 ## Estatísticas GitHub
 
