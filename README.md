@@ -2,8 +2,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6A5ACD&width=435&lines=Desenvolvedor+Fullstack;Analista+de+Dados;Blue+Team+Security)](https://git.io/typing-svg)
 
-# Olá, eu sou Gabriel Siqueira 👋
-
 Sou um profissional de tecnologia com foco em **desenvolvimento, automação de processos, análise de dados** e interesse crescente em **Cybersecurity Blue Team Operations**.
 
 Atualmente atuo com desenvolvimento fullstack, com dados, BI e automações, transformando necessidades de negócio em soluções práticas, com experiência em tecnologias como **SQL Server, Power BI, .NET, Python e Azure**.
